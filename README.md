@@ -26,6 +26,24 @@ Give examples
  
 Say what the step will be
 
+## TABLE OF CONTENTS
+Chapters:
+- I.  	[Command line (Mac/Linux)](#chap1)
+- II.  	[Putty (Windows)](#chap2)
+- III. 	[Vim text editor](#chap3)
+- IV.  	[FileZilla FTP (file transfer protocol) software](#chap4)
+- V.  	[VASP submission script](#chap5)
+- VI.   [4 input files](#chap6)
+- VII.  [Self-consistent run – forces on ions](#chap7)
+- VIII. [Non self-consistent run – density of states and dispersion relationship E(k)/band structures → p4vasp and VESTA](#chap8)
+- IX.  	[LDA+U correction](#chap9)
+- X.  	[Hybrid functionals](#chap10)
+- XI.  	[Dielectric constant calculations](#chap11)
+- XII.  [Effective mass calculations – parabolic band fitting](#chap12)
+- XIII. [Phonon calculations – phonopy](#chap13)
+- XIV.  [Bash scripting](#chap14)
+- XV.   [Flow chart of a ‘full’ set of ground state calculations for GaAs with plots](#chap15)
+
 ```
 Give the example
 ```
