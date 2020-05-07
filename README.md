@@ -1,14 +1,14 @@
 # DFT-UFF
 
-One Paragraph of project description goes here
+Curso sobre a teroria do funcional da densidade (DFT).
 
-## Getting Started
+## Iniciando
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Pre-requesitos
 
-What things you need to install the software and how to install them
+Conhecimentos básicos de Linux. Acesso a um computador com qualquer distribuição Linux.
 
 ```
 Give examples
@@ -16,8 +16,14 @@ Give examples
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+1 - Instalação do Linux:
 
+  i)   - Instalar o Linux em seu computador.
+  
+  ii)  - Dual boot : Em uma mesma máquina temos 2 sistemas operacionais. Uma estratégia muito comum com vários tutoriais disponíveis. Requer um conhecimento intermediário.
+  
+  iii) - Máquina Virtual :  Executar o linux dentro de um outro sistema operacional (Windows, Mac Os). Requer pouco conhecimento e de baixo risco de perda de dados.
+ 
 Say what the step will be
 
 ```
