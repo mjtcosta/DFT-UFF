@@ -19,6 +19,7 @@ Give examples
 1 - Instalação do Linux:
 
 -  i)   - Instalar o Linux como único sistem operacional em seu computador.
+
              https://canaltech.com.br/linux/guia-como-instalar-o-ubuntu-linux/
   
 -  ii)  - Dual boot : Em uma mesma máquina temos 2 sistemas operacionais. Uma estratégia muito comum com vários tutoriais disponíveis. Requer um conhecimento intermediário.
