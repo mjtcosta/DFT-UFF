@@ -21,7 +21,7 @@ Give examples
 
 -  i)   - Instalar o Linux como único sistem operacional em seu computador.
 
-        https://olhardigital.com.br/dicas_e_tutoriais/noticia/quais-sao-as-novidades-do-ubuntu-20-04/99891         
+      https://olhardigital.com.br/dicas_e_tutoriais/noticia/quais-sao-as-novidades-do-ubuntu-20-04/99891         
          
 -  ii)  - Dual boot : Em uma mesma máquina temos 2 sistemas operacionais. Uma estratégia muito comum com vários tutoriais disponíveis. Requer um conhecimento intermediário.
   
