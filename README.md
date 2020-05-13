@@ -16,7 +16,8 @@ Give examples
 
 ### Instalação do Linux
 
-1 - Instalação do Linux:
+É fundamental ter acesso a uma máquina com sistema operacional Linux. É possível instalar o Quantum Espresso em máquinas que utilizem Windows e macOS, porém o processo de compilação é, em geral, mais complexo. Por esta razão sugerimos, fortemente, a utilização do Linux. Em princípio, pode se usar qualquer distribuição. Abaixo estamos sugerindo links que contém instruções para a distribuição Ubuntu (https://ubuntu.com/) de três formas diferentes. 
+
 
 -  i)   - Instalar o Linux como único sistem operacional em seu computador.
 
