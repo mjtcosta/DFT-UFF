@@ -16,13 +16,13 @@ Give examples
 
 ### Instalação do Linux
 
-É fundamental ter acesso a uma máquina com sistema operacional Linux. É possível instalar o Quantum Espresso em máquinas que utilizem Windows e macOS, porém o processo de compilação é, em geral, mais complexo. Por esta razão sugerimos, fortemente, a utilização do Linux. Em princípio, pode se usar qualquer distribuição. Abaixo estamos sugerindo links que contém instruções para a distribuição Ubuntu (https://ubuntu.com/) de três formas diferentes. 
+É fundamental ter acesso a uma máquina com sistema operacional Linux. É possível instalar o Quantum Espresso em máquinas que utilizem Windows e macOS, porém o processo de compilação é, em geral, mais complexo. Por esta razão sugerimos, fortemente, a utilização do Linux. Em princípio, pode se usar qualquer distribuição. Abaixo estamos sugerindo links que contém instruções para a distribuição Ubuntu Desktop (https://ubuntu.com/download/desktop) de três formas diferentes. 
 
 
 -  i)   - Instalar o Linux como único sistem operacional em seu computador.
 
-             https://canaltech.com.br/linux/guia-como-instalar-o-ubuntu-linux/
-  
+        https://olhardigital.com.br/dicas_e_tutoriais/noticia/quais-sao-as-novidades-do-ubuntu-20-04/99891         
+         
 -  ii)  - Dual boot : Em uma mesma máquina temos 2 sistemas operacionais. Uma estratégia muito comum com vários tutoriais disponíveis. Requer um conhecimento intermediário.
   
 -  iii) - Máquina Virtual :  Executar o linux dentro de um outro sistema operacional (Windows, Mac Os). Requer pouco conhecimento e de baixo risco de perda de dados.
