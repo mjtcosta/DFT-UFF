@@ -25,6 +25,8 @@ Give examples
 -  ii)  - Dual boot : Em uma mesma máquina temos 2 sistemas operacionais. Uma estratégia muito comum com vários tutoriais disponíveis. Requer um conhecimento intermediário.
   
 -  iii) - Máquina Virtual :  Executar o linux dentro de um outro sistema operacional (Windows, Mac Os). Requer pouco conhecimento e de baixo risco de perda de dados.
+
+             https://canaltech.com.br/software/como-criar-uma-maquina-virtual-com-o-virtualbox/
  
 Say what the step will be
 
