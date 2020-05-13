@@ -1,18 +1,23 @@
-# DFT-UFF
+# DFT Online - UFF
 
-Curso sobre a teroria do funcional da densidade (DFT).
+Curso a distância sobre a teroria do funcional da densidade (DFT) oferecido pela Universidade Federal Fluminense. Ministrado pelo Prof. Pedro Venezuela e Prof. Marcio Costa.
 
-## Iniciando
+Prof. Pedro Venezuela
+http://lattes.cnpq.br/8358755068997419
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Prof. Marcio Costa
+http://lattes.cnpq.br/8290520665676688
+
+
+## Objetivo
+
+
 
 ### Pre-requesitos
 
-Conhecimentos básicos de Linux. Acesso a um computador com qualquer distribuição Linux.
-
-```
-Give examples
-```
+- Conhecimentos de Mecânica Quântica.
+- Conhecimentos básicos de Linux. 
+- Acesso a um computador com qualquer distribuição Linux.
 
 ### Instalação do Linux
 
@@ -50,17 +55,6 @@ Parte Prática
 - IV.  Proprieades eletrônicas: bandas e densidades de estados
 - V.   Fônons, propriedades magnéticas e forças de vdW
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
