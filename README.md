@@ -24,13 +24,14 @@ Give examples
       https://olhardigital.com.br/dicas_e_tutoriais/noticia/quais-sao-as-novidades-do-ubuntu-20-04/99891         
          
 -  ii)  - Dual boot : Em uma mesma máquina temos 2 sistemas operacionais. Uma estratégia muito comum com vários tutoriais disponíveis. Requer um conhecimento intermediário.
+          
+      https://www.softdownload.com.br/como-instalar-ubuntu-dual-boot-windows.html
   
 -  iii) - Máquina Virtual :  Executar o linux dentro de um outro sistema operacional (Windows, Mac Os). Requer pouco conhecimento e de baixo risco de perda de dados.
 
-             https://canaltech.com.br/software/como-criar-uma-maquina-virtual-com-o-virtualbox/
+      https://canaltech.com.br/software/como-criar-uma-maquina-virtual-com-o-virtualbox/
  
-Say what the step will be
-
+ 
 ## TABLE OF CONTENTS
 Parte Teórica
 
