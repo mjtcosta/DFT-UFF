@@ -1,6 +1,6 @@
 # DFT Online - UFF
 
-Curso a distância sobre a teroria do funcional da densidade (DFT) oferecido pela Universidade Federal Fluminense. Ministrado pelo Prof. Pedro Venezuela e Prof. Marcio Costa.
+Curso a distância sobre a teroria do funcional da densidade (DFT) oferecido pelo Instituto de Física da Universidade Federal Fluminense. 
 
 Prof. Pedro Venezuela
 http://lattes.cnpq.br/8358755068997419
