@@ -27,22 +27,22 @@ Give examples
 Say what the step will be
 
 ## TABLE OF CONTENTS
-Chapters:
-- I.  	[Command line (Mac/Linux)](#chap1)
-- II.  	[Putty (Windows)](#chap2)
-- III. 	[Vim text editor](#chap3)
-- IV.  	[FileZilla FTP (file transfer protocol) software](#chap4)
-- V.  	[VASP submission script](#chap5)
-- VI.   [4 input files](#chap6)
-- VII.  [Self-consistent run – forces on ions](#chap7)
-- VIII. [Non self-consistent run – density of states and dispersion relationship E(k)/band structures → p4vasp and VESTA](#chap8)
-- IX.  	[LDA+U correction](#chap9)
-- X.  	[Hybrid functionals](#chap10)
-- XI.  	[Dielectric constant calculations](#chap11)
-- XII.  [Effective mass calculations – parabolic band fitting](#chap12)
-- XIII. [Phonon calculations – phonopy](#chap13)
-- XIV.  [Bash scripting](#chap14)
-- XV.   [Flow chart of a ‘full’ set of ground state calculations for GaAs with plots](#chap15)
+Parte Teórica
+
+- I.   Introdução, o que podemos fazer com a DFT?
+- II.  Eq. de Schrodinger para muitos corpos e Eqs. de Hartree-Fock
+- III. Aspectos básicos da DFT, LDA e GGA
+- IV.  Ondas planas e espaço recíproco
+- V.   Pseudopotenciais
+- VI.  Spin, vibrações e forças de van der Waals (vdW)
+
+Parte Prática
+
+- I.   Comandos básicos do Linux
+- II.  Utilização básica do Quantum Espresso
+- III. Estrutura de equilíbrio de um sistema
+- IV.  Proprieades eletrônicas: bandas e densidades de estados
+- V.   Fônons, propriedades magnéticas e forças de vdW
 
 ```
 Give the example
