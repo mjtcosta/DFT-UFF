@@ -21,7 +21,7 @@ bi-dimensionais (2D). Iremos abordar também sistemas onde forças de  Van der W
 assim como propriedas vibracionais (phonons).
 
 
-### Pre-requesitos
+### Pré-requesitos
 
 - Conhecimentos de Mecânica Quântica.
 - Conhecimentos básicos de Linux. 
@@ -45,15 +45,15 @@ assim como propriedas vibracionais (phonons).
       https://canaltech.com.br/software/como-criar-uma-maquina-virtual-com-o-virtualbox/
  
  
-## TABLE OF CONTENTS
+## Programa
 Parte Teórica
 
-- I.   Introdução, o que podemos fazer com a DFT?
-- II.  Eq. de Schrodinger para muitos corpos e Eqs. de Hartree-Fock
-- III. Aspectos básicos da DFT, LDA e GGA
-- IV.  Ondas planas e espaço recíproco
-- V.   Pseudopotenciais
-- VI.  Spin, vibrações e forças de van der Waals (vdW)
+- TI.   Introdução, o que podemos fazer com a DFT?
+- TII.  Eq. de Schrodinger para muitos corpos e Eqs. de Hartree-Fock
+- TIII. Aspectos básicos da DFT, LDA e GGA
+- TIV.  Ondas planas e espaço recíproco
+- TV.   Pseudopotenciais
+- T_VI.  Spin, vibrações e forças de van der Waals (vdW)
 
 Parte Prática
 
