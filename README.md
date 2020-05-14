@@ -48,12 +48,12 @@ assim como propriedas vibracionais (phonons).
 ## Programa
 Parte Teórica
 
-- TI.   Introdução, o que podemos fazer com a DFT?
-- TII.  Eq. de Schrodinger para muitos corpos e Eqs. de Hartree-Fock
-- TIII. Aspectos básicos da DFT, LDA e GGA
-- TIV.  Ondas planas e espaço recíproco
-- TV.   Pseudopotenciais
-- T_VI.  Spin, vibrações e forças de van der Waals (vdW)
+- I.   Introdução, o que podemos fazer com a DFT?
+- II.  Eq. de Schrodinger para muitos corpos e Eqs. de Hartree-Fock
+- III. Aspectos básicos da DFT, LDA e GGA
+- IV.  Ondas planas e espaço recíproco
+- V.   Pseudopotenciais
+- VI.  Spin, vibrações e forças de van der Waals (vdW)
 
 Parte Prática
 
