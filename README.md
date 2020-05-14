@@ -57,7 +57,7 @@ Parte Teórica
 
 Parte Prática
 
-- I.   Comandos básicos do Linux
+- I.   Comandos básicos do Linux (pré-requisito)
 - II.  Utilização básica do Quantum Espresso
 - III. Estrutura de equilíbrio de um sistema
 - IV.  Proprieades eletrônicas: bandas e densidades de estados
