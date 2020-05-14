@@ -14,6 +14,11 @@ http://lattes.cnpq.br/8290520665676688
 
 ## Objetivo
 
+Introduzir a teoria do funcional da densidade (DFT) e suas aplicações a sistemas
+nanoscópicos. Pretendemos abordar sistemas isolantes (semi-condutores), metálicos,
+magnéticos e não magnéticos tanto em sua forma bulk (3D) quanto em dimensões reduzidas, 
+bi-dimensionais (2D). Iremos abordar também sistemas onde forças de  Van der Waals são importantes
+assim como propriedas vibracionais (phonons).
 
 
 ### Pre-requesitos
