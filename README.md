@@ -1,6 +1,9 @@
 # DFT Online - UFF
 
-Curso a distância sobre a teroria do funcional da densidade (DFT) oferecido pelo Instituto de Física da Universidade Federal Fluminense. 
+Curso a distância sobre Propriedades Quânticas de Nanomateriais utilizando a Teoria do Funcional Densidade (DFT).
+
+Instituto de Física da Universidade Federal Fluminense. 
+https://www.if.uff.br/
 
 Prof. Pedro Venezuela
 http://lattes.cnpq.br/8358755068997419
