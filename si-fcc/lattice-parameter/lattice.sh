@@ -52,7 +52,7 @@ cat > si.relax.in <<EOF
  &ions
  /
 ATOMIC_SPECIES
- Si  28.086  Si.pbe-n-kjpaw_psl.1.0.0.UPF 
+ Si  28.086  Si.pz-vbc.UPF
 ATOMIC_POSITIONS alat
  Si 0.00 0.00 0.00
  Si 0.25 0.25 0.25
