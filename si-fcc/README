@@ -1,0 +1,14 @@
+1 - Executar o calculo autoconsistence SCF 
+2 - Testes de convergencia para energia de corte de ondas planas assim como para pontos K.
+3 - Densidade de estados total e projetada.
+4 - Estrutura de bandas. Compare o seu resultado com : http://aflow.org/material/?id=aflow:2a2fbdfb4258eafa
+5 - Parametro de rede.
+
+Todos os calculos acima são para um pseudopotencial Ultrasoft LDA.
+
+Repita os passos acima para os dois outros pseudo potenciais que se encontram na pasta pseudo.
+
+LDA-PAW - Si.pz-n-kjpaw_psl.1.0.0.UPF
+GGA-PAW - Si.pbe-n-kjpaw_psl.1.0.0.UPF
+
+
