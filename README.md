@@ -63,3 +63,6 @@ Parte Prática
 - IV.  Proprieades eletrônicas: bandas e densidades de estados
 - V.   Fônons, propriedades magnéticas e forças de vdW
 
+## Referências
+### Books
+- I. Materials Modelling using Density Functional Theory: Properties and Predictions. Feliciano Giustino.
