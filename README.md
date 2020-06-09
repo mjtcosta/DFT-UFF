@@ -64,5 +64,9 @@ Parte Prática
 - V.   Fônons, propriedades magnéticas e forças de vdW
 
 ## Referências
-### Books
+### Livros
 - I. Materials Modelling using Density Functional Theory: Properties and Predictions. Feliciano Giustino.
+### Artigos
+- I. From DFT to machine learning: recent approaches to materials science–a review.
+Gabriel R Schleder, Antonio C M Padilha, Carlos Mera Acosta, Marcio Costa and Adalberto Fazzio. J. Phys. Mater. 2 032001 (2019). https://iopscience.iop.org/article/10.1088/2515-7639/ab084b
+
