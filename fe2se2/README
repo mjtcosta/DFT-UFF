@@ -1,0 +1,3 @@
+- calculates the lattice parameter of Fe2Se2
+- calculates its band structure. Compare with https://cmrdb.fysik.dtu.dk/c2db/row/Fe2Se2-4f9fa57b280a.
+- genrate inputs for the dos and pdos.
