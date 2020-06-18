@@ -1,0 +1,12 @@
+Example to compute the MoS2 band-structure without spin-orbit coupling (SOC)
+
+Compare to : https://cmrdb.fysik.dtu.dk/c2db/file/MoS2-b3b4685fb6e1/pbe-bs.png
+
+In the plots-pyprocar directory there is a script to 
+plot the band-structure using the pyprocar code
+
+https://romerogroup.github.io/pyprocar/index.html
+
+to install it just run :
+
+pip install pyprocar
