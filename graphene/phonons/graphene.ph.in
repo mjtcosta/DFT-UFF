@@ -1,0 +1,10 @@
+phonon calc.
+&inputph
+ outdir="./",
+ prefix="graphene",
+ tr2_ph = 1d-20,
+ ldisp = .true.,
+ nq1=6, nq2=6, nq3=1,
+ amass(1)=12.0107,
+ fildyn='graphene.dyn',
+/

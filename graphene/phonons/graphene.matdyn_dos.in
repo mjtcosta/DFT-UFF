@@ -1,0 +1,8 @@
+&input
+ asr='simple',
+ dos=.true.,
+ amass(1)=12.0107,
+ flfrc='graphene.fc',
+ fldos='graphene.phdos',
+ nk1=50,nk2=50,nk3=1,
+/

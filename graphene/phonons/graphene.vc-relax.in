@@ -1,0 +1,40 @@
+&control
+    calculation = 'vc-relax'
+    prefix='graphene',
+    pseudo_dir = '/home/mcosta/codes/pseudo/qe/pbe-no-soc/',
+    outdir='./'
+    verbosity='high'
+    forc_conv_thr = 1.0d-08,
+    tstress = .true.
+ /
+ &system
+    ibrav=  4, 
+    !a = 2.467412409424368 
+    a = 2.4623
+    c = 10
+    nat=  2, 
+    ntyp= 1,
+    ecutwfc = 120.0,
+    ecutrho = 1200.0,
+    occupations = 'smearing', smearing = 'gaussian', degauss = 0.02,
+    nbnd = 8,
+ /
+ &electrons
+    mixing_beta = 0.7
+    conv_thr =  1.0d-12
+ /
+&IONS
+/
+&CELL
+     cell_dynamics = 'bfgs',
+             press = 0.0,
+    press_conv_thr = 0.01,
+       cell_dofree = '2Dxy',
+/ 
+ATOMIC_SPECIES
+C 12.0107 C.pbe-n-kjpaw_psl.1.0.0.UPF
+ATOMIC_POSITIONS (crystal)
+C   0.333333333  0.666666666  0.500000000
+C   0.666666666  0.333333333  0.500000000
+K_POINTS automatic
+ 12 12 1 0 0 0

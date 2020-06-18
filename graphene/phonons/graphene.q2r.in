@@ -1,0 +1,6 @@
+&input
+ fildyn='graphene.dyn',
+ zasr='crystal',
+ flfrc='graphene.fc',
+/
+
